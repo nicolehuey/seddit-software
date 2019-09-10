@@ -1,0 +1,17 @@
+.profile {
+  text-align: center;
+}
+
+#profile-username{
+  color: var(--reddit-blue);
+  font-weight: bold;
+}
+
+#profile-name{
+  color:  #008a92;
+}
+
+
+#profile{
+  cursor: pointer;
+}

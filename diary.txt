@@ -1,0 +1,18 @@
+28/07/19     13:40   16:00   Coding           coding read and understand assignments specs, start Level 0
+31/7/19      17:30   19:00   Coding           create header,banner,buttons and start on login form
+31/7/19      23:00   00:00   Coding           finish up login and signup form html
+2/8/19       12:20   14:36   Coding           try to work with the api in subset 1
+3/8/19       13:00   17:00   Coding           Working on auth login and auth signup, get user post
+4/8/19       15:00   18:30   Debugging        Finish Level 1 and debug, improve style, fix pic
+4/8/19       18:30   19:10   Coding           Started on upvotes for Level 2
+5/8/19       13:30   16:30   Coding           Done first two of Level 2, style can be improved
+6/8/19       12:00   12:18   Coding           Finish upvote and downvote
+6/8/19       16:00   18:00   Debugging/Coding Fix bugs, let upvotes added onto page without refresh, done profile
+6/8/19       21:00   22:43   Coding           Finish creating js for new post, not yet connect w backend
+6/8/19       22:45   23:23   Coding           Finish uploading post without image
+6/8/19       23:30   00:30   Debugging        Fix the login and signup buttons layout on header
+7/8/19       18:00   23:30   Coding           Working on upload image and pagination, fix cursor, done edit profile
+8/8/19       14:30   17:30   Coding           Fixed image uplaod and pagination
+8/8/19       20:30   00:30   Debugging        Fixed bugs on commenting
+10/8/19      13:00   15:00   Coding           Fixed posting image bug and done profile and edit/delete own post
+11/8/19      15:00   17:00   Debugging        Checking and fixing bugs, reviewing code
